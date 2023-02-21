@@ -1,4 +1,4 @@
-# A python game to change the list acording to user input
+# A python game to change the list acording to the input of the user
 # Basics
 # DISPLAY
 def display(row1, row2, row3):
