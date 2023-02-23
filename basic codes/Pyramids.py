@@ -1,3 +1,4 @@
+#codes of pyramids
 """
 3rd pyramid
 n=int(input('Enter Number of lines'))
